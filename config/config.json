@@ -1,0 +1,19 @@
+{
+  "modules": {
+    "1_general": [
+      "blue",
+      "user",
+      "shell"
+    ],
+    "2_directories": [
+      "cyan",
+      "home",
+      "pwd"
+    ],
+    "3_hardware": [
+      "magenta",
+      "cpu"
+    ]
+  }
+}
+

@@ -1,0 +1,5 @@
+/Users/alex/projects/fawnfetch/build/CMakeFiles/MyProject.dir
+/Users/alex/projects/fawnfetch/build/CMakeFiles/edit_cache.dir
+/Users/alex/projects/fawnfetch/build/CMakeFiles/rebuild_cache.dir
+/Users/alex/projects/fawnfetch/build/_deps/nlohmann_json-build/CMakeFiles/edit_cache.dir
+/Users/alex/projects/fawnfetch/build/_deps/nlohmann_json-build/CMakeFiles/rebuild_cache.dir
